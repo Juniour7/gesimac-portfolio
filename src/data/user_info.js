@@ -6,6 +6,7 @@ const info = {
         role: "Full-Stack Developer",
         photo: "../photo.jpg",
         email: "giftmomanyi97@gmail.com",
+        cv_url: "/Giftmacvane_Gesimba_Momanyi_CV.pdf",
     },
 
     // ============ SOCIAL LINKS ============
